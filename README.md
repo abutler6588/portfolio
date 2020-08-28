@@ -1,5 +1,3 @@
-============
 # portfolio
 ============
-Outline
-. Contact Me
+
